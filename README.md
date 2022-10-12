@@ -24,15 +24,15 @@ This is made in vanialla JS so the file structure is not too complex basically h
 ## 🚩 Demo In Laptop Screen
 https://user-images.githubusercontent.com/108281031/195371025-386c6fc1-861b-49cf-bec7-d390661cb2af.mp4
 
-## Run Locally
+## 🏃‍♂️ Run Locally
 
-Clone the project
+📽 Clone the project
 
 ```bash
   git clone https://github.com/Srinivasan-Akash/Shade-Up.git
 ```
 
-Go to the project directory
+Go to the project directory 📁
 
 ```bash
   cd Shade-Up
